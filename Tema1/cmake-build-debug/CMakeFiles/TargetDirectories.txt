@@ -1,0 +1,12 @@
+/home/tomy/CLionProjects/SITema1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tomy/CLionProjects/SITema1/cmake-build-debug/CMakeFiles/SITema1.dir
+/home/tomy/CLionProjects/SITema1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1/CMakeFiles/rebuild_cache.dir
+/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1/CMakeFiles/exercitiul1.dir
+/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1/CMakeFiles/edit_cache.dir
+/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu2/CMakeFiles/rebuild_cache.dir
+/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu2/CMakeFiles/exercitiul2.dir
+/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu2/CMakeFiles/edit_cache.dir
+/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu3/CMakeFiles/rebuild_cache.dir
+/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu3/CMakeFiles/exercitiul3.dir
+/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu3/CMakeFiles/edit_cache.dir

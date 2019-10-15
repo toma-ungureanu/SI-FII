@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/siTema1.dir/main.cpp.o CMakeFiles/siTema1.dir/Exercitiu1/exercitiul1.cpp.o CMakeFiles/siTema1.dir/Exercitiu2/exercitiul2.cpp.o CMakeFiles/siTema1.dir/Exercitiu3/exercitiul3.cpp.o  -o siTema1 

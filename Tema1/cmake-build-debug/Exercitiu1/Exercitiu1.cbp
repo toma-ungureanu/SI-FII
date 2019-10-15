@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Exercitiu1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Exercitiu1\;CMake Files\Exercitiu2\;CMake Files\Exercitiu3\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exercitiul1">
+				<Option output="/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1/exercitiul1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DPLAIN_TEXT_FILE=&quot;../text/plainText.txt&quot;"/>
+					<Add option="-DCRYPTO_TEXT_FILE=&quot;../text/cryptoText.txt&quot;"/>
+					<Add option="-DWORDS_TEXT_FILE=&quot;../text/words.txt&quot;"/>
+					<Add option="-DMAX_PASSWORD_SIZE=15"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1/Makefile&quot;  VERBOSE=1 exercitiul1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exercitiul1/fast">
+				<Option output="/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1/exercitiul1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DPLAIN_TEXT_FILE=&quot;../text/plainText.txt&quot;"/>
+					<Add option="-DCRYPTO_TEXT_FILE=&quot;../text/cryptoText.txt&quot;"/>
+					<Add option="-DWORDS_TEXT_FILE=&quot;../text/words.txt&quot;"/>
+					<Add option="-DMAX_PASSWORD_SIZE=15"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1/Makefile&quot;  VERBOSE=1 exercitiul1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exercitiul2">
+				<Option output="/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu2/exercitiul2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DPLAIN_TEXT_FILE1=&quot;../text/file1.txt&quot;"/>
+					<Add option="-DPLAIN_TEXT_FILE2=&quot;../text/file2.txt&quot;"/>
+					<Add option="-DHASH1_SHA256_FILE=&quot;../text/hash1_sha256.txt&quot;"/>
+					<Add option="-DHASH2_SHA256_FILE=&quot;../text/hash2_sha256.txt&quot;"/>
+					<Add option="-DHASH1_MD5_FILE=&quot;../text/hash1_md5.txt&quot;"/>
+					<Add option="-DHASH2_MD5_FILE=&quot;../text/hash2_md5.txt&quot;"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu2/Makefile&quot;  VERBOSE=1 exercitiul2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exercitiul2/fast">
+				<Option output="/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu2/exercitiul2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DPLAIN_TEXT_FILE1=&quot;../text/file1.txt&quot;"/>
+					<Add option="-DPLAIN_TEXT_FILE2=&quot;../text/file2.txt&quot;"/>
+					<Add option="-DHASH1_SHA256_FILE=&quot;../text/hash1_sha256.txt&quot;"/>
+					<Add option="-DHASH2_SHA256_FILE=&quot;../text/hash2_sha256.txt&quot;"/>
+					<Add option="-DHASH1_MD5_FILE=&quot;../text/hash1_md5.txt&quot;"/>
+					<Add option="-DHASH2_MD5_FILE=&quot;../text/hash2_md5.txt&quot;"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu2/Makefile&quot;  VERBOSE=1 exercitiul2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exercitiul3">
+				<Option output="/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu3/exercitiul3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu3/Makefile&quot;  VERBOSE=1 exercitiul3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exercitiul3/fast">
+				<Option output="/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu3/exercitiul3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu3/Makefile&quot;  VERBOSE=1 exercitiul3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/tomy/CLionProjects/SITema1/cmake-build-debug/Exercitiu3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/tomy/CLionProjects/SITema1/Exercitiu1/exercitiul1.cpp">
+			<Option target="exercitiul1"/>
+		</Unit>
+		<Unit filename="/home/tomy/CLionProjects/SITema1/Exercitiu2/exercitiul2.cpp">
+			<Option target="exercitiul2"/>
+		</Unit>
+		<Unit filename="/home/tomy/CLionProjects/SITema1/Exercitiu3/exercitiul3.cpp">
+			<Option target="exercitiul3"/>
+		</Unit>
+		<Unit filename="/home/tomy/CLionProjects/SITema1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/tomy/CLionProjects/SITema1/Exercitiu1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Exercitiu1\"/>
+		</Unit>
+		<Unit filename="/home/tomy/CLionProjects/SITema1/Exercitiu2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Exercitiu2\"/>
+		</Unit>
+		<Unit filename="/home/tomy/CLionProjects/SITema1/Exercitiu3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Exercitiu3\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

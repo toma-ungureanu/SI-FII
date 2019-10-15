@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tomy/CLionProjects/SITema1/Exercitiu2/exercitiul2.cpp
+openssl/evp.h
+-
+cstring
+-
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+
