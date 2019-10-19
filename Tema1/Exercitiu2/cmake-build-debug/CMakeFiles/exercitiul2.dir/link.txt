@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/exercitiul2.dir/exercitiul2.cpp.o  -o exercitiul2 /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 

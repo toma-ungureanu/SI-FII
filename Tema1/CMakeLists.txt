@@ -7,3 +7,4 @@ add_custom_target(SITema1)
 add_subdirectory(Exercitiu1)
 add_subdirectory(Exercitiu2)
 add_subdirectory(Exercitiu3)
+

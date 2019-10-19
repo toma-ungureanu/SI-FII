@@ -251,7 +251,7 @@ int main()
 
 	//provided key and iv
 	auto key = reinterpret_cast<const unsigned char *const>(password.c_str());
-	auto iv = reinterpret_cast<const unsigned char *const>("\x21\x02\x03\x04\x05\x06\x07\x08\x09\x0a\x0b\x0c\x0d\x0e\x0f");
+	auto iv = reinterpret_cast<const unsigned char *const>("\x01\x02\x03\x04\x05\x06\x07\x08\x09\x0a\x0b\x0c\x0d\x0e\x0f");
 
 	//where the cipher text will be written
 	//BIO = Byte Input/Output

@@ -1,3 +1,0 @@
-/home/tomy/CLionProjects/SITema1/Exercitiu3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/tomy/CLionProjects/SITema1/Exercitiu3/cmake-build-debug/CMakeFiles/exercitiul3.dir
-/home/tomy/CLionProjects/SITema1/Exercitiu3/cmake-build-debug/CMakeFiles/edit_cache.dir

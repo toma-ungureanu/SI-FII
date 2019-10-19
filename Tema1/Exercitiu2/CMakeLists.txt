@@ -6,7 +6,7 @@ find_package(OpenSSL REQUIRED)
 
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${CMAKE_CURRENT_SOURCE_DIR}/../cmake) # main (top) cmake dir
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${CMAKE_CURRENT_SOURCE_DIR}/cmake) # project specific cmake dir
-set(APP_SOURCES exercitiul2.cpp)
+set(APP_SOURCES Main.cpp)
 set(APPLICATION_NAME exercitiul2)
 set(PLAIN_TEXT_FILE1    "../text/file1.txt")
 set(PLAIN_TEXT_FILE2    "../text/file2.txt")
